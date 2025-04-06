@@ -1,0 +1,1 @@
+// Property detail with booking form
